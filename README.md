@@ -118,3 +118,14 @@ The Smoothies and Shakes Menu Category had the highest saturated fat content. Up
 All the menus under Beef and Pork have a high %saturated fat content between 10% and 14%.
 
 The Premium Bacon Ranch Salad and Southwest Salad are the only salads with high %saturated fat.
+
+
+Có một mối quan hệ chặt chẽ giữa Calo và Calo với chất béo. Do đó, các mặt hàng thực phẩm có hàm lượng calo cao có xu hướng cũng có hàm lượng calo cao với hàm lượng chất béo.
+
+Nói chung, thực phẩm của McDonalds có ít chất béo chuyển hóa là tốt.
+
+Danh mục Thực đơn Smoothies and Shakes có hàm lượng chất béo bão hòa cao nhất. Sau khi phân tích, người ta phát hiện ra rằng trong khi Fruit shakes không có chất béo bão hòa. Tuy nhiên, sữa Shakes, Chocolate Shakes, Shamrock và McFlurry shakes có chất béo bão hòa cao với McFlurry đứng đầu danh sách.
+
+Tất cả các thực đơn dưới Thịt bò và Thịt lợn đều có hàm lượng chất béo bão hòa % cao từ 10% đến 14%.
+
+Salad thịt xông khói cao cấp và Salad Tây Nam là những món salad duy nhất có % chất béo bão hòa cao.
