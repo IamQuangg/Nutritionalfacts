@@ -98,7 +98,8 @@ Name: Trans Fat, dtype: float64
 
       data.groupby('Category')['Carbohydrates (% Daily Value)'].mean().sort_values()
  ![image](https://github.com/IamQuangg/Nutritionalfacts/assets/128073066/062d125e-2531-4521-bb17-20e40bd1535d)
-      plt.figure()
+     
+     plt.figure()
       plt.scatter(data['Total Fat (% Daily Value)'], data['Carbohydrates (% Daily Value)'], color='k')
       correlation = data['Total Fat (% Daily Value)'].corr(data['Carbohydrates (% Daily Value)'])
       plt.text(125,20,'r = {}'.format(round(correlation,2)))
@@ -113,3 +114,7 @@ There is a strong relationship between Calories and Calories with fat. Hence, fo
 Generally, McDonalds foods have low trans fat which is good.
 
 The Smoothies and Shakes Menu Category had the highest saturated fat content. Upon analysis, it was discovered that while Fruit shakes had no saturated fat. However, milk Shakes, Chocolate Shakes, Shamrock and McFlurry shakes had high saturated fat with McFlurry at the top of the list.
+
+All the menus under Beef and Pork have a high %saturated fat content between 10% and 14%.
+
+The Premium Bacon Ranch Salad and Southwest Salad are the only salads with high %saturated fat.
